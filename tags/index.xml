@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Nonsense by Mike</title>
+    <link>https://mikepearce.github.io/tags/</link>
+    <description>Recent content in Tags on Nonsense by Mike</description>
+    <image>
+      <url>https://mikepearce.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://mikepearce.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mikepearce.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>howtos</title>
+      <link>https://mikepearce.github.io/tags/howtos/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mikepearce.github.io/tags/howtos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workshops</title>
+      <link>https://mikepearce.github.io/tags/workshops/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mikepearce.github.io/tags/workshops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fiction</title>
+      <link>https://mikepearce.github.io/tags/fiction/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mikepearce.github.io/tags/fiction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>https://mikepearce.github.io/tags/first/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mikepearce.github.io/tags/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drama</title>
+      <link>https://mikepearce.github.io/tags/drama/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mikepearce.github.io/tags/drama/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

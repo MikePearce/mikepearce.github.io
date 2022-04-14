@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mikepearce.github.io/sitemap.xml
