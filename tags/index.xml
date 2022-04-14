@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Nonsense by Mike</title>
-    <link>https://nonsense.pearce.be/tags/</link>
+    <link>http://nonsense.pearce.be/tags/</link>
     <description>Recent content in Tags on Nonsense by Mike</description>
     <image>
-      <url>https://nonsense.pearce.be/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://nonsense.pearce.be/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://nonsense.pearce.be/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://nonsense.pearce.be/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nonsense.pearce.be/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://nonsense.pearce.be/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>howtos</title>
-      <link>https://nonsense.pearce.be/tags/howtos/</link>
+      <link>http://nonsense.pearce.be/tags/howtos/</link>
       <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nonsense.pearce.be/tags/howtos/</guid>
+      <guid>http://nonsense.pearce.be/tags/howtos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>workshops</title>
-      <link>https://nonsense.pearce.be/tags/workshops/</link>
+      <link>http://nonsense.pearce.be/tags/workshops/</link>
       <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nonsense.pearce.be/tags/workshops/</guid>
+      <guid>http://nonsense.pearce.be/tags/workshops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fiction</title>
-      <link>https://nonsense.pearce.be/tags/fiction/</link>
+      <link>http://nonsense.pearce.be/tags/fiction/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://nonsense.pearce.be/tags/fiction/</guid>
+      <guid>http://nonsense.pearce.be/tags/fiction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>first</title>
-      <link>https://nonsense.pearce.be/tags/first/</link>
+      <link>http://nonsense.pearce.be/tags/first/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://nonsense.pearce.be/tags/first/</guid>
+      <guid>http://nonsense.pearce.be/tags/first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>drama</title>
-      <link>https://nonsense.pearce.be/tags/drama/</link>
+      <link>http://nonsense.pearce.be/tags/drama/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://nonsense.pearce.be/tags/drama/</guid>
+      <guid>http://nonsense.pearce.be/tags/drama/</guid>
       <description></description>
     </item>
     

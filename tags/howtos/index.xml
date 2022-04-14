@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>howtos on Nonsense by Mike</title>
-    <link>https://nonsense.pearce.be/tags/howtos/</link>
+    <link>http://nonsense.pearce.be/tags/howtos/</link>
     <description>Recent content in howtos on Nonsense by Mike</description>
     <image>
-      <url>https://nonsense.pearce.be/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://nonsense.pearce.be/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://nonsense.pearce.be/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://nonsense.pearce.be/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nonsense.pearce.be/tags/howtos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://nonsense.pearce.be/tags/howtos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Event Storming</title>
-      <link>https://nonsense.pearce.be/pages/event-storming/</link>
+      <link>http://nonsense.pearce.be/pages/event-storming/</link>
       <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nonsense.pearce.be/pages/event-storming/</guid>
+      <guid>http://nonsense.pearce.be/pages/event-storming/</guid>
       <description>What is it? An event storming session to map out what the website does.
 Why do we need it? We want to be able to split the platform with sensible divisions so that different squads can own different parts. Running an event storming session should allow us to identify everything the platform does, who does it and why it happens.
 From there, we should be able to easily identify areas of commonality or similarity.</description>
