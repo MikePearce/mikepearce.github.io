@@ -17,9 +17,9 @@
       <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://nonsense.pearce.be/pages/event-storming/</guid>
-      <description>What is it? An event storming session to map out what the website does.
-Why do we need it? We want to be able to split the platform with sensible divisions so that different squads can own different parts. Running an event storming session should allow us to identify everything the platform does, who does it and why it happens.
-From there, we should be able to easily identify areas of commonality or similarity.</description>
+      <description>What is it? An event storming session to visually map out what the website and MyT platform does.
+Why do we need it? There currently isn&amp;rsquo;t a single view of everything the website and platform does in the form of users&amp;rsquo; journeys. Having this view is important for a number of reasons:
+ There will be gaps in our knowledge (and possibly or process). This will help us identify those. We can identify the riskiest and most valuable parts of our process.</description>
     </item>
     
   </channel>
